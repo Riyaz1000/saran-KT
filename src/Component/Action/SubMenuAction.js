@@ -6,7 +6,7 @@ const getSubMenu = (payload) => {
     arrayUtil.isArray(payload.props.metadata.subMenus)
   ) {
     return payload.props.metadata.subMenus.map((val) => {
-      console.log();
+
     });
   }
 };
