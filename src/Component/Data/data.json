@@ -1,0 +1,19 @@
+[
+  {
+    "type": "Menu",
+    "label": "profile"
+  },
+  {
+    "type": "Menu",
+    "label": "contact",
+    "subMenus": null
+  },
+  {
+    "type": "Menu",
+    "label": "Service"
+  },
+  {
+    "type": "Menu",
+    "label": "Home"
+  }
+]
